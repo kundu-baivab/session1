@@ -4,4 +4,5 @@ void main()
 {
     printf("Hello");
     printf("IT");
+    printf("IT");
 }
